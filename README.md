@@ -28,29 +28,43 @@ We welcome contributions from the community. Please do follow these rules when m
 
 ## Tooling & Software
 
-### Linux
+
+
+### Operating Systems (OS)
 
 - 
 
-### Git
+### Version control
+
+| Cloud | Link | Description | ??? |
+| :------------- | :------------- | :------------- | :------------- |
+| **Git** | [AWS](https://aws.amazon.com/) | AWS labs tool preventing you from committing secrets to a git repository  | Test |
+
 
 -
 ### Cloud - AWS, Azure, GCP
 
-- 
-### Python
+| Cloud | Link | Description | ??? |
+| :------------- | :------------- | :------------- | :------------- |
+| **AWS** | [AWS](https://aws.amazon.com/) | AWS labs tool preventing you from committing secrets to a git repository  | Test |
+
+### Programming & Scripting
+
+| Language | Link | Description | ??? |
+| :------------- | :------------- | :------------- | :------------- |
+| **AWS** | [AWS](https://aws.amazon.com/) | AWS labs tool preventing you from committing secrets to a git repository  | Test |
+
+### Infrastructure as Code
 
 - 
-### Terraform
 
-- 
 ### Containers & Container Orchestration
 
 -
-### Ansible
+### Configuration Management
 
 - 
-### Jenkins & other CI/CD
+### Continuous Integration & Continuous Deployment
 
 - 
 ### GitOps
