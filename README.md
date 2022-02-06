@@ -17,8 +17,18 @@ We welcome contributions from the community. Please do follow these rules when m
 # Table of Contents
 
 - [What is DevOps?]()
-- []()
-- []()
+
+## Tools
+
+- [Linux]()
+- [Git]()
+- [Python]()
+- [Ansible]()
+- [Container & Container Orchestration]()
+
+## Resources
+
+- [Certifications]()
 - [Useful resources & materials]()
 
 # What is DevOps
