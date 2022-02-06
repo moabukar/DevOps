@@ -20,6 +20,7 @@ We welcome contributions from the community. Please do follow these rules when m
 - [Tooling & Software]()
 - [Best practices]()
 - [Useful resources & materials]()
+- [Learning Projects]()
 
 
 ## What is DevOps
@@ -67,6 +68,8 @@ We welcome contributions from the community. Please do follow these rules when m
 ### Continuous Integration & Continuous Deployment
 
 - 
+
+### Monitoring & Observability
 ### GitOps
 
 - 
@@ -107,4 +110,5 @@ We welcome contributions from the community. Please do follow these rules when m
 ### Other useful repos
 
 - 
+## Learning Projects
 
