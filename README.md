@@ -17,21 +17,32 @@ We welcome contributions from the community. Please do follow these rules when m
 # Table of Contents
 
 - [What is DevOps?]()
+- [Tooling & Software]()
+- [Best practices]()
+- [Useful resources & materials]()
 
-## Tools
+
+### What is DevOps
+
+- DEFINITION
+
+### Tooling & Software
 
 - [Linux]()
 - [Git]()
 - [Python Fundamentals]()
-- [Ansible]()
-- [Container & Container Orchestration]()
+- [Infrastructure as Code]()
+- [Containerisation Orchestration]()
+- [Container O]()
+- [Ansible]() 
+- [CI/CD]()
 
-## Resources
+### Useful resources and materials
 
 - [Certifications]()
-- [Useful resources & materials]()
+- [Resources]()
+- [Blogs & Articles]()
+- [Other useful repos]()
 
-# What is DevOps
 
-# Tooling & Software
 
