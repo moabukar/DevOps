@@ -22,7 +22,7 @@ We welcome contributions from the community. Please do follow these rules when m
 
 - [Linux]()
 - [Git]()
-- [Python]()
+- [Python Fundamentals]()
 - [Ansible]()
 - [Container & Container Orchestration]()
 
