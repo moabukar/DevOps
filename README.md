@@ -22,27 +22,59 @@ We welcome contributions from the community. Please do follow these rules when m
 - [Useful resources & materials]()
 
 
-### What is DevOps
+## What is DevOps
 
 - DEFINITION
 
-### Tooling & Software
+## Tooling & Software
 
-- [Linux]()
-- [Git]()
-- [Python Fundamentals]()
-- [Infrastructure as Code]()
-- [Containerisation Orchestration]()
-- [Container O]()
-- [Ansible]() 
-- [CI/CD]()
+### Linux
 
-### Useful resources and materials
+- 
 
-- [Certifications]()
-- [Resources]()
-- [Blogs & Articles]()
-- [Other useful repos]()
+### Git
+
+-
+### Cloud - AWS, Azure, GCP
+
+- 
+### Python
+
+- 
+### Terraform
+
+- 
+### Containers & Container Orchestration
+
+-
+### Ansible
+
+- 
+### Jenkins & other CI/CD
+
+- 
+### GitOps
+
+- 
 
 
+## Useful resources and materials
+
+### Certifications
+
+| Certificate  | Why? | Difficulty | Learning resources & links |
+| ------------- | ------------- | ------------- | ------------- |
+| AWS Certified Cloud Practitioner | New to the Cloud? Definitely recommend this one!! (AWS are currently the largest cloud-provider) | Easy | [AWS CCP course by Andrew Brown - FreeCodeCamp](https://www.youtube.com/watch?v=3hLmDS179YE) |
+| Azure Fundamentals (AZ900) | Starting with Cloud and already work with on-prem tools like Azure AD and the likes, then this is for you!  | Easy | [Azure Fundamentals (AZ900) course by Andrew Brown - FreeCodeCamp](https://www.youtube.com/watch?v=NKEFWyqJ5XA) |
+
+### Resources
+
+
+### Blogs & Articles 
+
+- 
+
+### Other useful repos
+
+- 
 
