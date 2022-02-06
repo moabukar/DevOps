@@ -62,6 +62,9 @@ We welcome contributions from the community. Please do follow these rules when m
 
 ### Certifications
 
+
+#### Note: These are just our personal recommendations of certifications that are currently in demand. They are not in order! Also note that these certifications alone do not guarantee your success in getting a role - they merely open doors for you and allow you to validate current/existing knowledge
+
 | Certificate  | Why? | Difficulty | Learning resources & links |
 | ------------- | ------------- | ------------- | ------------- |
 | AWS Certified Cloud Practitioner | New to the Cloud? Definitely recommend this one!! (AWS are currently the largest cloud-provider) | Easy | [AWS CCP course by Andrew Brown - FreeCodeCamp](https://www.youtube.com/watch?v=3hLmDS179YE) |
