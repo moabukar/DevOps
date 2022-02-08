@@ -17,8 +17,9 @@ We welcome contributions from the community. Please do follow these rules when m
 # Table of Contents
 
 - [What is DevOps?]()
+- [A Pathway To DevOps]()
 - [Tooling & Software]()
-- [Best practices]()
+- [Best practices in DevOps]()
 - [Useful resources & materials]()
 - [Learning Projects]()
 - [FAQ]()
@@ -28,13 +29,29 @@ We welcome contributions from the community. Please do follow these rules when m
 
 - DEFINITION
 
+
+## A Pathway to DevOps
+
+To begin with, the 4 fundamentals I recommend to anyone looking to start learning are: (Links to course are provided towards the end of this article)
+- The fundamentals of Linux and being able to navigate the linux CLI (command line interface ).Yep, this is where a lot of the magic happens; you may have come across Command prompt CMD/Powershell for windows users and the Terminal for mac users. Just like Windows and MacOS, Linux is also an operating system — In fact, one of the most popular on the planet. Android is powered by the Linux OS. A lot of the DevOps tools that you will come across like Docker and Kubernetes, require you to have a grounding in Linux.
+- Git (version control) — this is important as you will learn how to keep track of your code and allow others to make changes
+- Python — as much as you may dislike coding, you will need to learn the fundamentals. Python can get so deep but as a DevOps/Platform Engineer, the fundamentals, automation and being able to read the code of others will suffice for the beginning. Python is also one of the easiest programming languages to pick up.
+- Learn 1 cloud technology — it is easy to get carried away and jump between learning cloud providers, but the best option is to learn one cloud provider and learn it WELL!. For someone completely new to IT, I recommend you to start with Amazon Web Services (AWS). For others who have worked in IT before as a 1st/2nd/3rd line Engineer, Helpdesk Support Engineer or General Engineer who is familiar with the Microsoft suite (Active directory and the likes), I would say to begin with Microsoft Azure.
+
 ## Tooling & Software
 
 
 
 ### Operating Systems (OS)
 
-- 
+What is OS?
+
+- OS is...
+
+|  OS  | Descrption  | Why  | Learning Resources |  
+| ------------ | ------------ | ------------ | ------------ |
+|  Test  | 2  | 3  |   |
+|  Test  | 2  | 3  |   |  |
 
 ### Version control
 
