@@ -44,6 +44,9 @@ To begin with, the 4 fundamentals I recommend to anyone looking to start learnin
 - Python — as much as you may dislike coding, you will need to learn the fundamentals. Python can get so deep but as a DevOps/Platform Engineer, the fundamentals, automation and being able to read the code of others will suffice for the beginning. Python is also one of the easiest programming languages to pick up.
 - Learn 1 cloud technology — it is easy to get carried away and jump between learning cloud providers, but the best option is to learn one cloud provider and learn it WELL!. For someone completely new to IT, I recommend you to start with Amazon Web Services (AWS). For others who have worked in IT before as a 1st/2nd/3rd line Engineer, Helpdesk Support Engineer or General Engineer who is familiar with the Microsoft suite (Active directory and the likes), I would say to begin with Microsoft Azure.
 
+#### Cloud Technology
+Learn 1 cloud technology — it is easy to get carried away and jump between learning cloud providers, but the best option is to learn one cloud provider and learn it WELL!. For someone completely new to IT, I recommend you to start with Amazon Web Services (AWS). For others who have worked in IT before as a 1st/2nd/3rd line Engineer, Helpdesk Support Engineer or General Engineer who is familiar with the Microsoft suite (Active directory and the likes), I would say to begin with Microsoft Azure.
+
 ### Advanced
 
 #### Terraform
