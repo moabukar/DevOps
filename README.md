@@ -32,11 +32,49 @@ We welcome contributions from the community. Please do follow these rules when m
 
 ## A Pathway to DevOps
 
-To begin with, the 4 fundamentals I recommend to anyone looking to start learning are: (Links to course are provided towards the end of this article)
+To begin with, the 4 fundamentals I recommend to anyone looking to start learning are: (Links to course are provided towards the end of this article):
+
+### Fundamentals
+
+#### Linux
 - The fundamentals of Linux and being able to navigate the linux CLI (command line interface ).Yep, this is where a lot of the magic happens; you may have come across Command prompt CMD/Powershell for windows users and the Terminal for mac users. Just like Windows and MacOS, Linux is also an operating system — In fact, one of the most popular on the planet. Android is powered by the Linux OS. A lot of the DevOps tools that you will come across like Docker and Kubernetes, require you to have a grounding in Linux.
+#### Git
 - Git (version control) — this is important as you will learn how to keep track of your code and allow others to make changes
+#### Python
 - Python — as much as you may dislike coding, you will need to learn the fundamentals. Python can get so deep but as a DevOps/Platform Engineer, the fundamentals, automation and being able to read the code of others will suffice for the beginning. Python is also one of the easiest programming languages to pick up.
 - Learn 1 cloud technology — it is easy to get carried away and jump between learning cloud providers, but the best option is to learn one cloud provider and learn it WELL!. For someone completely new to IT, I recommend you to start with Amazon Web Services (AWS). For others who have worked in IT before as a 1st/2nd/3rd line Engineer, Helpdesk Support Engineer or General Engineer who is familiar with the Microsoft suite (Active directory and the likes), I would say to begin with Microsoft Azure.
+
+### Advanced
+
+#### Terraform
+- Bear in mind, there are many tools for IaC but Terraform is currently the most popular. Other IaCs include AWS CloudFormation, ARM (Azure), and Google Cloud Deployment Manager. Terraform is cloud-agnostic and can be used across multiple providers thus you are free from “vendor lock-in”.
+- Terraform is a tool that is used for building, changing, versioning your infrastructure (not just cloud but other resources) safely and efficiently. Terraform can manage existing and the common service providers as well custom solutions.
+- Terraform is an open-source infrastructure as code (IaC) tool that is used for provisioning (to create, destroy and modify) through code.
+
+#### Containers (Docker and Kubernetes aka K8s)
+
+Those that know me, know that this is my favourite topic of them all!
+#### Docker:
+Containerising applications has become the norm in the IT/DevOps industry, allowing developers to condense their application code and all its dependencies in a lightweight and portable environment so that these applications can be deployed anywhere virtually.
+Let’s just say you developed a Python application in the fundamentals stage, the next logical step would be to deploy it; this can be complex as well as time-consuming. This is because a running app requires a myriad of configurations, ranging from the allocation of resources to setting up environmental variables.
+Containers efficiently solve the issues by packaging the codebase for the application with all the required dependencies — including tools, libraries, config files, and run-times. This process of containerisation ensures a lightweight and secure package (depending on how it’s done) known as a container image.
+
+#### Kubernetes:
+Then came along issues whilst building microservices. Amongst those issues was containerising applications so that they are deployable on any environment, including a Dev’s one. As mentioned before, it was the idea of containers that solved this issue, and then this lead to another issue which was managing these containers. This is where the story of Kubernetes began.
+So, Kubernetes is a container orchestration platform or in simple terms, an application management platform.
+Fun fact: The name Kubernetes itself stems from an ancient Greek word for “helmsman”, meaning he who steers a ship thus telling the story behind the K8s logo. Another name for Kubernetes (you hear it quite often) is “K8s” — the reason for this name is the 8 letters between the “k” and the “s” in Kubernetes.
+Both Docker and Kubernetes have surged in popularity. Many roles (as of 2021) are looking for individuals with such skills. So my advice is to read into this and learn how to use Kubernetes. Links are provided towards the end of this article.
+
+#### CI/CD — Continuous Integration & Continuous Delivery
+Continuous Integration: CI allows you to continuously integrate your code into a single shared repository
+Continuous Delivery: CD allows you to take that stored code in the repository and continuously deliver it to production.
+There are many benefits to it and why you should learn them. Here is a link that explains it really well.
+What is CI/CD? Everything You Need To Know
+Code doesn't exist to live in a silo. Our software services are meant to be valuable, understood, and shared. And so…
+harness.io
+
+As a DevOps/Platform Engineer, you always want to be continuously releasing your latest application to your customers, so it is crucial you understand how this works and you are able to perform it.
+There are many CI/CD tools, to name a few: Jenkins, GitLab, CircleCI, TeamCity, Concourse CI, GitHub Actions, and Bamboo. The most common one is Jenkins. My personal favourite is GitLab. CircleCI and GitHub Actions are also good but make sure to learn one and learn it well!
 
 ## Tooling & Software
 
@@ -55,9 +93,13 @@ What is OS?
 
 ### Version control
 
+What is version control?
+
+- Version control is ...
+
 | Cloud | Link | Description | ??? |
 | :------------- | :------------- | :------------- | :------------- |
-| **Git** | [AWS](https://aws.amazon.com/) | AWS labs tool preventing you from committing secrets to a git repository  | Test |
+| **Git** | [Git]() | Git is...  | Resources |
 
 
 -
@@ -69,17 +111,36 @@ What is OS?
 
 ### Programming & Scripting
 
+What is Programming & Scripting?
+
+Programming and Scripting is ...
+
 | Language | Link | Description | ??? |
 | :------------- | :------------- | :------------- | :------------- |
 | **AWS** | [AWS](https://aws.amazon.com/) | AWS labs tool preventing you from committing secrets to a git repository  | Test |
 
 ### Infrastructure as Code
 
-- 
+What is IaC?
+
+Infrastructure as Code ...
+
+| Language | Link | Description | ??? |
+| :------------- | :------------- | :------------- | :------------- |
+| **AWS** | [AWS](https://aws.amazon.com/) | AWS labs tool preventing you from committing secrets to a git repository  | Test |
 
 ### Containers & Container Orchestration
 
--
+What are containers and container orchestration?
+
+- Containers are ...
+
+- Container Orchestrations are ...
+
+| Language | Link | Description | ??? |
+| :------------- | :------------- | :------------- | :------------- |
+| **AWS** | [AWS](https://aws.amazon.com/) | AWS labs tool preventing you from committing secrets to a git repository  | Test |
+
 ### Configuration Management
 
 - 
