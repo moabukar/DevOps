@@ -21,6 +21,7 @@ We welcome contributions from the community. Please do follow these rules when m
 - [Best practices]()
 - [Useful resources & materials]()
 - [Learning Projects]()
+- [FAQ]()
 
 
 ## What is DevOps
