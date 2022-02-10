@@ -17,10 +17,10 @@ We welcome contributions from the community. Please do follow these rules when m
 # Table of Contents
 
 - [What is DevOps](#What-is-DevOps)
-- [Tooling & Software]()
-- [Best practices]()
-- [Useful resources & materials]()
-- [Learning Projects]()
+- [Tooling & Software](#Tooling-&-Software)
+- [Best practices](#Best-Practices)
+- [Useful resources & materials](#Useful-resources-and-materials)
+- [Learning Projects](#Learning Projects)
 
 
 ## What is DevOps
@@ -76,6 +76,7 @@ We welcome contributions from the community. Please do follow these rules when m
 
 - 
 
+## Best Practices
 
 ## Useful resources and materials
 
