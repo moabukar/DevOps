@@ -20,7 +20,7 @@ We welcome contributions from the community. Please do follow these rules when m
 - [Tooling & Software](#Tooling-&-Software)
 - [Best practices](#Best-Practices)
 - [Useful resources & materials](#Useful-resources-and-materials)
-- [Learning Projects](#Learning Projects)
+- [Learning Projects](#Learning-Projects)
 
 
 ## What is DevOps
