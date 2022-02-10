@@ -16,7 +16,7 @@ We welcome contributions from the community. Please do follow these rules when m
 
 # Table of Contents
 
-- [What is DevOps?]()
+- [What is DevOps](#What-is-DevOps)
 - [Tooling & Software]()
 - [Best practices]()
 - [Useful resources & materials]()
