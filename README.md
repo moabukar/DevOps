@@ -16,13 +16,14 @@ We welcome contributions from the community. Please do follow these rules when m
 
 # Table of Contents
 
-- [What is DevOps](#What-is-DevOps)
-- [A Pathway To DevOps](#A-Pathway-to-DevOps)
-- [Tooling & Software](#Tooling-&-Software)
-- [Best practices](#Best-Practices)
-- [Useful resources & materials](#Useful-resources-and-materials)
-- [Learning Projects](#Learning-Projects)
-- [FAQ](#FAQ)
+- [What is DevOps?]()
+- [A Pathway To DevOps]()
+- [Tooling & Software]()
+- [Best practices in DevOps]()
+- [Useful resources & materials]()
+- [Learning Projects]()
+- [FAQ]()
+
 
 
 ## What is DevOps
