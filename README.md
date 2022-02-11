@@ -25,7 +25,6 @@ We welcome contributions from the community. Please do follow these rules when m
 - [FAQ]()
 
 
-
 ## What is DevOps
 
 - DEFINITION
@@ -196,6 +195,4 @@ What are containers and container orchestration?
 
 - 
 ## Learning Projects
-
-## FAQ
 
