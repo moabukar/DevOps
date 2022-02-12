@@ -16,13 +16,13 @@ We welcome contributions from the community. Please do follow these rules when m
 
 # Table of Contents
 
-- [What is DevOps?]()
-- [A Pathway To DevOps]()
-- [Tooling & Software]()
-- [Best practices in DevOps]()
-- [Useful resources & materials]()
-- [Learning Projects]()
-- [FAQ]()
+- [What is DevOps?](#What-is-DevOps)
+- [A Pathway To DevOps](#A-Pathway-to-DevOps)
+- [Tooling and Software](#Tooling-and-Software)
+- [Best practices in DevOps](#Best-practices-in-DevOps)
+- [Useful resources & materials](#Useful-resources-and-materials)
+- [Learning Projects](#Learning-Projects)
+- [FAQ](#FAQ)
 
 
 
@@ -80,7 +80,7 @@ harness.io
 As a DevOps/Platform Engineer, you always want to be continuously releasing your latest application to your customers, so it is crucial you understand how this works and you are able to perform it.
 There are many CI/CD tools, to name a few: Jenkins, GitLab, CircleCI, TeamCity, Concourse CI, GitHub Actions, and Bamboo. The most common one is Jenkins. My personal favourite is GitLab. CircleCI and GitHub Actions are also good but make sure to learn one and learn it well!
 
-## Tooling & Software
+## Tooling and Software
 
 
 
@@ -158,7 +158,7 @@ What are containers and container orchestration?
 ### GitOps
 
 - 
-
+## Best practices in DevOps
 
 ## Useful resources and materials
 
